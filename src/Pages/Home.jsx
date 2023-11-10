@@ -44,10 +44,10 @@ const Home = () => {
 				<div className="flex justify-center items-center flex-col h-[100vh]">
 					<h5 className="text-[1.4rem] font-semibold">Hi, Visitor!</h5>
 					<h1 className="text-7xl font-extrabold" id="Glow">
-						WELCOME
+						WELCOME To
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						TO IX 5
+						IX 5
 					</h6>
 				</div>
 			</div>
